@@ -22,10 +22,10 @@
     - [3.1.2. Nackdelar](#312-nackdelar)
     - [3.1.3. Points of Interests](#313-points-of-interests)
 - [4. Rutt 1C - Talljärv](#4-rutt-1c---talljärv)
-    - [4.0.1. Fördelar](#401-fördelar)
-    - [4.0.2. Nackdelar](#402-nackdelar)
-    - [4.0.3. Points of Interest](#403-points-of-interest)
+  - [4.1. Etapp 1](#41-etapp-1)
+    - [4.1.1. Points of Interest](#411-points-of-interest)
 - [5. Rutt 1-D - Tjäruträsket](#5-rutt-1-d---tjäruträsket)
+  - [Etapp 1](#etapp-1)
     - [5.0.1. Points of Interest](#501-points-of-interest)
 - [6. Rutt 2 - Töreälv](#6-rutt-2---töreälv)
   - [6.1. Etapp 1](#61-etapp-1)
@@ -186,15 +186,13 @@ Längd: 18 km
 
 ## 4. Rutt 1C - Talljärv
 
+### 4.1. Etapp 1
+
 Från: Talljärv \
 Till: Tallån \
 Längd: 12 km
 
-#### 4.0.1. Fördelar
-
-#### 4.0.2. Nackdelar
-
-#### 4.0.3. Points of Interest
+#### 4.1.1. Points of Interest
 
 | WGS84 - Google Maps                   | SWEREF 99 TM - Lantmäteriet | Comment                         |
 | :------------------------------------ | :-------------------------- | :------------------------------ |
@@ -204,8 +202,9 @@ Längd: 12 km
 | [66.23239314196765,22.224807504954764](https://www.google.com/maps/@?api=1&map_action=map&center=66.23239314196765,22.224807504954764&zoom=15&basemap=satellite) | [7364561 824340](https://minkarta.lantmateriet.se/?e=824340&n=7364561&z=15&background=1&boundaries=false) |  Escape                           |
 | [66.22436498351469,22.22601867358363](https://www.google.com/maps/@?api=1&map_action=map&center=66.22436498351469,22.22601867358363&zoom=15&basemap=satellite) | [7363678 824498](https://minkarta.lantmateriet.se/?e=824498&n=7363678&z=15&background=1&boundaries=false) |  Ansluter till Rutt 1A - Etapp 2  |
 
-
 ## 5. Rutt 1-D - Tjäruträsket
+
+### Etapp 1
 
 Tjäruträsket, Töreälvens början
 Längd 4,4 km (Ej inräknat i totalsträcka för etapp 1-A, 1-B, 1-C eller 2s)
