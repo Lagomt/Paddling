@@ -1,6 +1,6 @@
 # Töreälv <!-- omit in toc -->
 
-![Karta](.\Media\Torealv_Cover.png)
+![Karta](/Media/Torealv_Cover.png)
 
 - [1. Generell Info](#1-generell-info)
 - [2. Rutt 1A](#2-rutt-1a)
