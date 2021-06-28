@@ -196,13 +196,15 @@ Längd: 12 km
 
 #### 4.0.3. Points of Interest
 
-| WGS84 - Google Maps                   | SWEREF 99 TM - Lantmäteriet | Comment                         |
-| :------------------------------------ | :-------------------------- | :------------------------------ |
-| 66.27500677530995, 22.249974539890147 |                             | Escape                          |
-| 66.26247888263757, 22.230571972812847 |                             | Överväxt?                       |
-| 66.25709610247138, 22.219258585513288 |                             | Escape                          |
-| 66.23239314196765, 22.224807504954764 |                             | Escape                          |
-| 66.22436498351469, 22.22601867358363  |                             | Ansluter till Rutt 1A - Etapp 2 |
+| WGS84 - Google Maps                                                                                                                                              | SWEREF 99 TM - Lantmäteriet                                                    | Comment                         |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------ |
+| [66.27500677530995,22.249974539890147](https://www.google.com/maps/@?api=1&map_action=map&center=66.27500677530995,22.249974539890147&zoom=15&basemap=satellite) | [](https://minkarta.lantmateriet.se/?e=&n=&z=15&background=1&boundaries=false) | Escape                          |
+| [66.26247888263757,22.230571972812847](https://www.google.com/maps/@?api=1&map_action=map&center=66.26247888263757,22.230571972812847&zoom=15&basemap=satellite) | [](https://minkarta.lantmateriet.se/?e=&n=&z=15&background=1&boundaries=false) | Överväxt?                       |
+| [66.25709610247138,22.219258585513288](https://www.google.com/maps/@?api=1&map_action=map&center=66.25709610247138,22.219258585513288&zoom=15&basemap=satellite) | [](https://minkarta.lantmateriet.se/?e=&n=&z=15&background=1&boundaries=false) | Escape                          |
+| [66.23239314196765,22.224807504954764](https://www.google.com/maps/@?api=1&map_action=map&center=66.23239314196765,22.224807504954764&zoom=15&basemap=satellite) | [](https://minkarta.lantmateriet.se/?e=&n=&z=15&background=1&boundaries=false) | Escape                          |
+| [66.22436498351469,22.22601867358363](https://www.google.com/maps/@?api=1&map_action=map&center=66.22436498351469,22.22601867358363&zoom=15&basemap=satellite)   | [](https://minkarta.lantmateriet.se/?e=&n=&z=15&background=1&boundaries=false) | Ansluter till Rutt 1A - Etapp 2 |
+
+
 
 ## 5. Rutt 1-D - Tjäruträsket
 
